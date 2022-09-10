@@ -1,1 +1,4 @@
-# ProceduralAnimation
+# 程序化动画
+## Demo简介
+该Demo是一个基于UE5 Control Rig制作的怪物程序化动画案例，其中所有动画都是运行时计算的，没有离线动画资产。案例中展示了怪物基础移动，肢体分解，独立移动到拼接的过程
+![](Doc/Imgs/Main.gif)
